@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204);
+	text-align:center;
+}
+.firstdiv{
+	height:100%;
+	width:95%;
+	background-color:#FFFFFF;
+	text-align:left;
+	margin:auto;
+	border:2px solid black;
+	border-radius:10px;
+}
+div ul li{
+	list-style:none;
+}
+
+a{
+	/* text-decoration:none; */
+}
