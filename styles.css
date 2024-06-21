@@ -3,6 +3,9 @@ body{
 	background-color: rgb(204, 204, 204);
 	text-align:center;
 }
+h1,h2{
+	text-align:center;
+}
 .firstdiv{
 	height:100%;
 	width:95%;
